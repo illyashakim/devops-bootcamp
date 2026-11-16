@@ -8,3 +8,4 @@ Belajar git workflow lokal.
 #redo Git 2
 ## 16-Nov-2026
 ## Diubah  dari laptop
+## Diubah dari salinan kedua
