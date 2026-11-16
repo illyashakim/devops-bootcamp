@@ -6,3 +6,4 @@ Belajar git workflow lokal.
 # tambah di hujung fail:
 # ## Senarai Arahan
 # - git init / git add / git commit
+#redo Git 2
